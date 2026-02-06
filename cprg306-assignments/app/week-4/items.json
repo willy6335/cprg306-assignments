@@ -1,0 +1,5 @@
+[
+    { "name": "Milk", "quantity": 1, "category": "dairy" },
+    { "name": "Bananas", "quantity": 6, "category": "produce" },
+    { "name": "Bread", "quantity": 2, "category": "bakery" }
+  ]
