@@ -5,7 +5,7 @@ import ItemList from "./item-list";
 import NewItem from "./NewItem";
 import MealIdeas from "./MealIdeas";
 import Link from "next/link";
-import { useUserAuth } from "../../contexts/AuthContext";
+import { useUserAuth } from "@/app/contexts/AuthContext";
 import { getItems, addItem } from "./_services/shopping-list-service";
 
 export default function ShoppingListPage() {
