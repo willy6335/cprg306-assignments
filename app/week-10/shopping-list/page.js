@@ -39,7 +39,7 @@ export default function ShoppingListPage() {
       <main className="p-6">
         <p>
           You must be logged in to view the shopping list.{" "}
-          <Link href="/week-10" className="text-blue-600 underline">
+          <Link href="/week-9" className="text-blue-600 underline">
             Go to login
           </Link>
         </p>
